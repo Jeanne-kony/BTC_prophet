@@ -1,6 +1,6 @@
 - BTCの終値を予測をするため以下の特徴量を使用した
-- Federal Reserve Economic Data(https://fred.stlouisfed.org/) からNominal Broad U.S. Dollar Index
 - bybit(https://www.bybit.com/ja-JP/) からBTCの過去レートと資金調達率
+- Federal Reserve Economic Data(https://fred.stlouisfed.org/) からNominal Broad U.S. Dollar Index
 - Investing.com(https://jp.investing.com/indices/us-spx-500-historical-data) からS&P500の過去のレート
 
   上記の特徴量を追加することによって平均絶対パーセント誤差 (MAPE)を 5.20%　→ 5.18%に向上した
