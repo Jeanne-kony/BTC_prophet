@@ -1,5 +1,5 @@
 - BTCの終値を予測をするため以下の特徴量を使用した
-- bybit(https://www.bybit.com/ja-JP/) からBTCの過去レートと資金調達率
+- bybit api(https://www.bybit.com/ja-JP/) からBTCの過去レートと資金調達率
 - Federal Reserve Economic Data(https://fred.stlouisfed.org/) からNominal Broad U.S. Dollar Index
 - Investing.com(https://jp.investing.com/indices/us-spx-500-historical-data) からS&P500の過去のレート
 
